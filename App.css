@@ -1,0 +1,21 @@
+.Board-row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.Board-container{
+  margin-top: 150px;
+  box-shadow: -4px -4px 15px var(--seventh-color);
+  color: aliceblue;
+  
+ 
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('a1.jpg') ;
+  background-size:cover;
+  
+}
